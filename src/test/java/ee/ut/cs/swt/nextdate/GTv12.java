@@ -172,5 +172,4 @@ public class GTv12 {
 	    String string0 = nextDate0.run(2, 29, 1985);
 	    assertEquals("Invalid Input Date", string0);
 	}
-
 }
