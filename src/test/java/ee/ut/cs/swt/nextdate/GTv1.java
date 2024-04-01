@@ -151,5 +151,4 @@ public class GTv1 {
 	    String string0 = nextDate0.run(1, 1, 2000);
 	    assertEquals("1/2/2000", string0);
 	}
-
 }
